@@ -1,0 +1,19 @@
+h1
+{
+text-align: center;
+}
+section
+{
+float: left;
+padding-left: 110px;
+}
+body
+{
+background-image: url("contact1.jpg");
+background-size: cover;
+}
+article{
+    float: right;
+    padding-right: 120px;
+}
+   
